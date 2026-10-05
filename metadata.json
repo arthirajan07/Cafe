@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi Coffee & Bakehouse",
+  "description": "Artisanal specialty coffee roastery, slow-fermented sourdough pastries, and sunlit all-day café in Soho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
